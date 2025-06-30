@@ -1,4 +1,4 @@
-# Satya Narayan Panda - Portfolio
+# Satya Panda - Portfolio
 ## Senior Business Analytics & Financial Analytics Professional
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satya-narayan-p-664b9520/)
