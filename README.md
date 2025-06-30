@@ -128,7 +128,7 @@
 
 ### **📝 Publications**
 - "ESG-Integrated Financial Forecasting using LSTM-BERT Architecture" - *Under Review*
-- "Quantum Computing Applications in Portfolio Optimization" - *Quantum Finance Research* (2024)
+- "Quantum Computing Applications in Portfolio Optimization" - *Quantum Finance Research* (under review)
 - "Analysis in Patient Treatment using ML, DL techniques" - *Web4All Conference* (2020)
 
 ---
