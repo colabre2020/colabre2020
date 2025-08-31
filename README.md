@@ -56,12 +56,6 @@
 - Interactive financial charts
 - **Performance:** Sub-second latency for 1M+ data points
 
-### 🏦 [Banking Fraud Detection System](https://github.com/colabre2020/banking-fraud-detection)
-**Tech Stack:** Python, Neo4j, XGBoost, Apache Kafka
-- Graph-based fraud detection with 96% accuracy
-- Real-time transaction monitoring
-- Automated alert system
-- **Business Impact:** 45% reduction in false positives
 
 ### 📱 [Financial Planning Mobile App](https://github.com/colabre2020/financial-planning-app)
 **Tech Stack:** React Native, TensorFlow.js, Firebase
