@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-**Experienced Data Scientiest, Business & Financial Analytics Expert** with multiple years driving data-driven decision making across Fortune 500 organizations. Recently completed MS in Business Statistics & Financial Analytics (4.0 GPA) with specialization in financial analytics, quantum computing, and generative AI.
+**Experienced Data Scientiest, Business & Financial Analytics Expert** with multiple years driving data-driven decision making across Fortune 500 organizations. Recently completed MS in Business Statistics & Financial Analytics (4.00 GPA) with specialization in financial analytics, quantum computing, and generative AI.
 
 ### 💼 Impact Metrics
 - 💰 **$1.2B+** revenue generated through AI-powered financial solutions
