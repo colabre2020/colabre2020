@@ -7,19 +7,19 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 **Experienced Data Scientiest, Business & Financial Analytics Expert** with multiple years driving data-driven decision making across Fortune 500 organizations. Recently completed MS in Business Statistics & Financial Analytics (4.00 GPA) with specialization in financial analytics, quantum computing, and generative AI.
 
 ### 💼 Impact Metrics
-- 💰 **$1.2B+** revenue generated through AI-powered financial solutions
-- 👥 **50M+** users served across global platforms
-- 💡 **$50M+** annual cost savings through analytics optimization
-- 🎯 **35+** cross-functional team members led across global markets
+-  **$1.2B+** revenue generated through AI-powered financial solutions
+-  **50M+** users served across global platforms
+-  **$50M+** annual cost savings through analytics optimization
+-  **35+** cross-functional team members led across global markets
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
 ### 🤖 [Agentic AI with Neo4j Research](https://github.com/colabre2020/agentic-ai-neo4j-research)
 **Tech Stack:** Python, Neo4j, LangChain, OpenAI, Vector Search
