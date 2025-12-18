@@ -49,7 +49,7 @@
 - Research project with 40% faster optimization
 - **Innovation:** First quantum-enhanced financial forecasting model
 
-### 📈 [Real-Time Market Analytics Dashboard](https://github.com/colabre2020/market-analytics-dashboard)
+###  [Real-Time Market Analytics Dashboard](https://github.com/colabre2020/market-analytics-dashboard)
 **Tech Stack:** React, D3.js, Python Flask, Redis, WebSocket
 - Live market data visualization
 - Real-time risk monitoring
