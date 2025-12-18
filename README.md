@@ -132,10 +132,10 @@
 ##  Activity & Contributions
 
 ### **Recent Activity**
-- 🔥 **50+ commits** in the last month
-- 📁 **15+ repositories** actively maintained
-- ⭐ **100+ stars** received across projects
-- 🤝 **25+ contributions** to open source projects
+-  **50+ commits** in the last month
+-  **15+ repositories** actively maintained
+-  **100+ stars** received across projects
+-  **25+ contributions** to open source projects
 
 ### **Research Areas**
 - 🧮 **Quantum Computing in Finance**
@@ -145,15 +145,15 @@
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
-### **🔬 Research Projects**
+### ** Research Projects**
 - Quantum algorithms for portfolio optimization
 - ESG-integrated financial forecasting models
 - Generative AI for automated financial reporting
 - Real-time risk analytics using graph databases
 
-### **💼 Open for Opportunities**
+### ** Open for Opportunities**
 - Senior Business Analyst / Financial Analyst roles
 - Director of Analytics / VP of Financial Analytics
 - Chief Data Officer positions
@@ -162,20 +162,20 @@
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 I'm always interested in discussing:
-- 📊 Advanced analytics and statistical modeling
-- 💰 Financial technology and fintech innovations
-- 🤖 AI/ML applications in finance
-- 🔮 Quantum computing in financial services
-- 🌱 ESG analytics and sustainable finance
+-  Advanced analytics and statistical modeling
+-  Financial technology and fintech innovations
+-  AI/ML applications in finance
+-  Quantum computing in financial services
+-  ESG analytics and sustainable finance
 
 **Feel free to reach out for collaborations, opportunities, or just to chat about data science and finance!**
 
 ---
 
-## 📚 Learning Resources
+##  Learning Resources
 
 Check out my curated list of resources for aspiring data scientists and financial analysts:
 - [Financial Analytics Learning Path](https://github.com/colabre2020/financial-analytics-resources)
