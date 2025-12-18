@@ -11,7 +11,7 @@
 
 **Experienced Data Scientiest, Business & Financial Analytics Expert** with multiple years driving data-driven decision making across Fortune 500 organizations. Recently completed MS in Business Statistics & Financial Analytics (4.00 GPA) with specialization in financial analytics, quantum computing, and generative AI.
 
-### 💼 Impact Metrics
+###  Impact Metrics
 -  **$1.2B+** revenue generated through AI-powered financial solutions
 -  **50M+** users served across global platforms
 -  **$50M+** annual cost savings through analytics optimization
@@ -35,14 +35,14 @@
 - Interactive dashboard for portfolio managers
 - **Business Impact:** 25% improvement in investment decision accuracy
 
-### 📊 [ESG Portfolio Optimizer](https://github.com/colabre2020/esg-portfolio-optimizer)
+###  [ESG Portfolio Optimizer](https://github.com/colabre2020/esg-portfolio-optimizer)
 **Tech Stack:** Python, cvxpy, pandas, plotly, Jupyter
 - Multi-objective portfolio optimization with ESG constraints
 - Monte Carlo simulations for risk assessment
 - Efficient frontier visualization
 - **Business Impact:** 15% better risk-adjusted returns
 
-### 🔮 [Quantum Financial Forecaster](https://github.com/colabre2020/quantum-financial-forecaster)
+###  [Quantum Financial Forecaster](https://github.com/colabre2020/quantum-financial-forecaster)
 **Tech Stack:** Qiskit, Python, NumPy, matplotlib
 - Quantum algorithms for portfolio optimization
 - Hybrid classical-quantum risk modeling
@@ -57,7 +57,7 @@
 - **Performance:** Sub-second latency for 1M+ data points
 
 
-### 📱 [Financial Planning Mobile App](https://github.com/colabre2020/financial-planning-app)
+###  [Financial Planning Mobile App](https://github.com/colabre2020/financial-planning-app)
 **Tech Stack:** React Native, TensorFlow.js, Firebase
 - Personal finance optimization
 - AI-powered spending insights
@@ -66,7 +66,7 @@
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### **Programming & Analytics**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -95,7 +95,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=colabre2020&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -127,7 +127,7 @@
 
 ---
 
-## 📈 Activity & Contributions
+##  Activity & Contributions
 
 ### **Recent Activity**
 - 🔥 **50+ commits** in the last month
