@@ -147,13 +147,13 @@
 
 ##  Current Focus
 
-### ** Research Projects**
+### Research Projects
 - Quantum algorithms for portfolio optimization
 - ESG-integrated financial forecasting models
 - Generative AI for automated financial reporting
 - Real-time risk analytics using graph databases
 
-### ** Open for Opportunities**
+### Open for Opportunities
 - Senior Business Analyst / Financial Analyst roles
 - Director of Analytics / VP of Financial Analytics
 - Chief Data Officer positions
