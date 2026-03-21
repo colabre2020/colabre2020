@@ -21,14 +21,14 @@
 
 ##  Featured Projects
 
-### 🤖 [Agentic AI with Neo4j Research](https://github.com/colabre2020/agentic-ai-neo4j-research)
+###  [Agentic AI with Neo4j Research](https://github.com/colabre2020/agentic-ai-neo4j-research)
 **Tech Stack:** Python, Neo4j, LangChain, OpenAI, Vector Search
 - Developing novel Agentic AI systems integrated with Neo4j graph databases
 - Creating multi-agent coordination mechanisms for financial knowledge traversal
 - Implementing graph-enhanced RAG architecture with 40% improved query relevance
 - **Innovation:** Pioneering graph-based autonomous agent decision-making
 
-### 🤖 [AI-Powered Financial Analytics Suite](https://github.com/colabre2020/financial-analytics-suite)
+###  [AI-Powered Financial Analytics Suite](https://github.com/colabre2020/financial-analytics-suite)
 **Tech Stack:** Python, LSTM, BERT, Weaviate, Streamlit, AWS
 - ESG-integrated stock prediction with 94% accuracy
 - Real-time sentiment analysis of financial news
@@ -110,19 +110,19 @@
 
 ---
 
-## 🏆 Achievements & Recognition
+##  Achievements & Recognition
 
 ### **🎓 Academic Excellence**
 - **Outstanding Student Award** - University of New Haven (2024)
 - **4.0 GPA** - MS Business Statistics Program
 - **Research Excellence** - Quantum CT Challenge (2024)
 
-### **🏅 Industry Awards**
+### ** Industry Awards**
 - **Innovation Award Winner** - INTUIT (1st out of 156 teams)
 - **Service Ninja Challenge Winner** - INTUIT
 - **Digital Transformation Leader** - IBM
 
-### **📝 Publications**
+### ** Publications**
 - "ESG-Integrated Financial Forecasting using LSTM-BERT Architecture" - *Under Review*
 - "Quantum Computing Applications in Portfolio Optimization" - *Quantum Finance Research* (under review)
 - "Analysis in Patient Treatment using ML, DL techniques" - *Web4All Conference* (2020)
@@ -138,10 +138,10 @@
 -  **25+ contributions** to open source projects
 
 ### **Research Areas**
-- 🧮 **Quantum Computing in Finance**
-- 🌱 **ESG Analytics & Sustainable Finance**
-- 🤖 **AI/ML for Financial Services**
-- 📊 **Advanced Statistical Modeling**
+-  **Quantum Computing in Finance**
+-  **ESG Analytics & Sustainable Finance**
+-  **AI/ML for Financial Services**
+-  **Advanced Statistical Modeling**
 
 ---
 
